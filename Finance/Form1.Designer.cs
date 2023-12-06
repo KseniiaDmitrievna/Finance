@@ -229,11 +229,11 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.SteelBlue;
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 908);
+            this.pictureBox1.Location = new System.Drawing.Point(0, 903);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.MinimumSize = new System.Drawing.Size(1596, 45);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1737, 61);
+            this.pictureBox1.Size = new System.Drawing.Size(1737, 66);
             this.pictureBox1.TabIndex = 35;
             this.pictureBox1.TabStop = false;
             // 

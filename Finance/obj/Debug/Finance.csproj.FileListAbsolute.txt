@@ -1,0 +1,10 @@
+D:\Начнем\Finance\Finance\obj\Debug\Finance.csproj.AssemblyReference.cache
+D:\Начнем\Finance\Finance\obj\Debug\Finance.Form1.resources
+D:\Начнем\Finance\Finance\obj\Debug\Finance.Properties.Resources.resources
+D:\Начнем\Finance\Finance\obj\Debug\Finance.csproj.GenerateResource.cache
+D:\Начнем\Finance\Finance\obj\Debug\Finance.csproj.CoreCompileInputs.cache
+D:\Начнем\Finance\Finance\bin\Debug\Finance.exe.config
+D:\Начнем\Finance\Finance\bin\Debug\Finance.exe
+D:\Начнем\Finance\Finance\bin\Debug\Finance.pdb
+D:\Начнем\Finance\Finance\obj\Debug\Finance.exe
+D:\Начнем\Finance\Finance\obj\Debug\Finance.pdb
